@@ -18,6 +18,6 @@ make all
  ┣ 📂input          # Một vài Input có sẵn.
  ┣ 📂obj            # Các Object file dùng cho sau khi make all.
  ┣ 📂output         # Một vài output mẫu.
- ┣ 📂src            # Fide code.
+ ┣ 📂src            # File code.
  ┣ 📜Makefile       # File để compile toàn bộ code. 
 ```
