@@ -1,6 +1,6 @@
 # Simple Operating System
 
-## Prerequisites
+## Tiên quyết: Phải được thực thi trên Linux. Nếu máy tính là Window, có thể cân nhắc sử dụng ứng dụng cho phép dùng terminal của Linux
 - `Ubuntu` 22.04 LTS
   
 ## Commands
