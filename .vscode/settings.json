@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "common.h": "c",
+        "sched.h": "c",
+        "queue.h": "c",
+        "stdint.h": "c"
+    }
+}

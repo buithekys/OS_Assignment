@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "os-cfg.h": "c",
+        "cpu.h": "c",
+        "common.h": "c",
+        "stdint.h": "c",
+        "mm.h": "c",
+        "sched.h": "c",
+        "queue.h": "c"
+    }
+}
