@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - `Ubuntu` 22.04 LTS
-- 
+  
 ## Commands
 - `make all`: để compile tất cả các file code
 - `./os [tên file input] [tên file output]`: chạy code  
