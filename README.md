@@ -13,11 +13,11 @@ make all
 
 
 ## Cấu trúc của BTL:
-
+```
  ┣ 📂include        # Header files.
  ┣ 📂input          # Samples input used for verification.
  ┣ 📂obj            # Include objects file after run make all.
  ┣ 📂output         # Samples output of the operating system.
  ┣ 📂src            # Source files.
  ┣ 📜Makefile       # Include scripts to compile source code. 
-
+```
